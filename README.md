@@ -12,7 +12,7 @@ Overall, the project on "Identifying Patterns and Trends in Campus Placement Dat
 <h1>Outputs: </h1>
 
 ![Output - 1](https://github.com/smartinternz02/SBSPS-Challenge-10865-Autonomous-Tagging-Of-Stack-Overflow-Questions/assets/116560172/13929c86-3725-486c-ab78-85ca10986976) <br>
-![Output - 2](https://github.com/smartinternz02/SBSPS-Challenge-10865-Autonomous-Tagging-Of-Stack-Overflow-Questions/assets/116560172/c27a373f-acdb-401c-be93-d60777a489d6) <br>
+![Output - 2](https://github.com/smartinternz02/SBSPS-Challenge-10865-Autonomous-Tagging-Of-Stack-Overflow-Questions/assets/116560172/c27a373f-acdb-401c-be93-d60777a489d6) <hr>
 ![Output - 3](https://github.com/smartinternz02/SBSPS-Challenge-10865-Autonomous-Tagging-Of-Stack-Overflow-Questions/assets/116560172/f8fd1a18-eee2-45a4-9ef1-4be7fc1b7f12)
 
 # Video Link Of My Project -  
